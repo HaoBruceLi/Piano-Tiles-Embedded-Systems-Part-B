@@ -1,5 +1,3 @@
-# Piano-Tiles-Embedded-Systems-Part-B
-
 # Piano Tiles
 
 This implementation of piano tiles is for the UCFK4.
